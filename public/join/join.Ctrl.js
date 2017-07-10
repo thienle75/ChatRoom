@@ -1,3 +1,9 @@
+/**
+ * Author: Thien Le
+ * Github: http://github.com/thienle75
+ * Module dependencies.
+ * This is the join controller
+ */
 (function() {
   'use strict';
 

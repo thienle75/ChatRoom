@@ -1,3 +1,10 @@
+/**
+ * Author: Thien Le
+ * Github: http://github.com/thienle75
+ * Module dependencies.
+ * This is the main apps
+ * Dependentcy: Angular app config
+ */
 'use strict';
 
 angular

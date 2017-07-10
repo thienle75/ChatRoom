@@ -1,3 +1,9 @@
+/**
+ * Author: Thien Le
+ * Github: http://github.com/thienle75
+ * Module dependencies.
+ * This is the main controller
+ */
 (function() {
   'use strict';
 
